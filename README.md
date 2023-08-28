@@ -37,5 +37,13 @@ The SNS topic promptly delivers notifications to users, enabling them to promptl
 By leveraging the power of AWS services, focusing on premium seating tickets, utilizing Selenium for web scraping, and automatically halting Lambda execution upon success, the Imax Ticket Notifier offers an efficient and reliable solution for securing premium seats for the Oppenheimer movie.
 
 <br/><br/> 
-![IMG_9071](https://github.com/matrso/Oppenheimer-Ticket-Checker/assets/3247192/83650976-791f-4261-aaf9-593834e957a5)
-![oppenheimer_imax](https://github.com/matrso/Oppenheimer-Ticket-Checker/assets/3247192/937ec7c2-631c-4405-8524-b6fee43dcdf1)
+<div align="center">
+  <img width="641" alt="Screenshot 2023-08-28 at 11 57 51 am" src="https://github.com/matrso/Oppenheimer-Ticket-Checker/assets/3247192/dbff4664-b0e6-41d8-9354-998c2e09909a">
+</div>
+<div align="center">
+  <img width="641" alt="Screenshot 2023-08-28 at 11 57 51 am" src="https://github.com/matrso/Oppenheimer-Ticket-Checker/assets/3247192/d8bb08c1-505c-4f70-92c7-b2b57f8d5de9">
+</div>
+<div align="center">
+  <img width="641" alt="Screenshot 2023-08-28 at 11 57 51 am" src="https://github.com/matrso/Oppenheimer-Ticket-Checker/assets/3247192/05fa306c-ffe0-4ffd-a648-6eda3facedab">
+</div>
+
